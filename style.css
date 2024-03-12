@@ -15,3 +15,7 @@
   max-height: 756px;
   /* parameters for the header section */
 }
+.footer{
+  margin-right: 100%;
+  text-align: right;
+}
