@@ -14,7 +14,7 @@ body{
 }
 
 .header {
-  height: 100vh;
+  height: 110vh;
   min-height: 600px;
   max-height: 756px;
   /* parameters for the header section */
@@ -52,7 +52,7 @@ body{
 .numbers{
   font-size: 2em;
   font-weight: bolder;
-  z-index: 2;
+  z-index: 10;
 }
 .textTable{
   display:inline;
@@ -62,10 +62,11 @@ body{
   font-size: 80%;
   color: white;
   height: 40%;
-  background-color: rgb(31, 31, 31);
+  
   white-space: nowrap;
   overflow: hidden;
   z-index: 10;
+  position: relative;
   
   
 }
@@ -74,8 +75,10 @@ body{
   text-align: right;
   position: absolute;
   z-index: 1;
-  top: 50;
-  left: 0;
+  top: auto;
+  right: 0;
+  rotate: 30deg;
+  
 
 
 }
@@ -84,5 +87,29 @@ body{
    margin: auto;
     height: 40%;  
    margin-bottom: auto;
-    z-index: 20;
+    z-index: 10;
 }
+.headerDiv{
+  position: absolute;
+  background-color: #2F80ED;
+  margin-top: auto;
+  height: 600px;
+  width: 600px;
+  z-index: 2;
+  right: 0;
+  line-height: normal;
+    display: inline-block;
+    vertical-align: middle;
+}
+.HeaderImage{
+  position: absolute;
+  height: 874px;
+  width: 1038px;
+  right: 0;
+  z-index: 3;
+}
+.LastP{
+  padding: 7%;
+  padding-top: 50%;
+}
+
