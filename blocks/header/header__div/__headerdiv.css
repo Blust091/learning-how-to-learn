@@ -1,0 +1,15 @@
+.headerDiv{
+    position: absolute;
+    background-color: #2F80ED;
+    margin-top: auto;
+    height: 600px;
+    width: 600px;
+    z-index: 2;
+    right: 0;
+    line-height: normal;
+      display: inline-block;
+      vertical-align: middle;
+      animation: Animation infinite ease-in;
+      animation-name: Animation;
+      animation-duration: 20s;
+  }

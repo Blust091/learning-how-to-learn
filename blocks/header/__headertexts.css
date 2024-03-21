@@ -1,0 +1,12 @@
+.LastP{
+    padding: 7%;
+    padding-top: 50%;
+  }
+.title{
+    vertical-align: middle;
+    font-size: 8em;
+    font-weight: bolder;
+    padding: 7%;
+    z-index: 4; 
+    position: absolute;
+}

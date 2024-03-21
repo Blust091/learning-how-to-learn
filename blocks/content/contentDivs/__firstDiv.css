@@ -1,0 +1,10 @@
+.ContentFirstDiv{
+    height: 90%; 
+    width: 20%; 
+    background-color: white;
+    float:left; 
+    padding-top: 5%; 
+    text-align: right;
+    margin-right: 3%;
+    font-size: 1.1em; 
+}

@@ -1,8 +1,8 @@
 .page {
-  min-width: 100%;
+  width: 100%;
   /* we are not making mobile versions of websites yet, */
   /* so here we've set a minimum page width */
-  max-width: 100%;
+ 
   /* here we've set a maximum page width */
   margin: 0 auto;
   /* this ensures that all content is centered on screens wider than 1600px */
@@ -11,6 +11,8 @@
 body{
   background-color: white;
   width: 100%;
+
+overflow-x:hidden;  
 }
 
 .header {
@@ -78,6 +80,9 @@ body{
   top: auto;
   right: 0;
   rotate: 30deg;
+  animation: Animation infinite ease-in;
+	animation-name: Animation;
+	animation-duration: 20s;
   
 
 
@@ -100,6 +105,9 @@ body{
   line-height: normal;
     display: inline-block;
     vertical-align: middle;
+    animation: Animation infinite ease-in;
+	animation-name: Animation;
+	animation-duration: 20s;
 }
 .HeaderImage{
   position: absolute;
@@ -107,9 +115,25 @@ body{
   width: 1038px;
   right: 0;
   z-index: 3;
+  
 }
 .LastP{
   padding: 7%;
   padding-top: 50%;
 }
+@keyframes Animation{
+  0%{
+    transform: rotate(0);
+  }
+  100%{
+       transform: rotate(360deg);
+  }
+}
+.headerLogo{
+  padding-top: 30px;
+  padding-left: 64px;
+  height: 32px ;
+  width:143px;
+}
+
 
