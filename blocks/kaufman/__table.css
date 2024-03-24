@@ -1,0 +1,13 @@
+.table{
+    width: 100%;
+     margin: auto;
+      height: 40%;  
+     margin-bottom: auto;
+      z-index: 10;
+      padding: 2,5%;
+  }
+  .KaufmanContainer{
+    height: 100%;
+    width: 80%; 
+    margin: auto;  
+  }

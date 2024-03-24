@@ -1,0 +1,17 @@
+.resTitle{
+    width: 60%;
+    font-size: 4em;
+    font-weight: bolder;
+    text-align: center;
+    padding-left: 20%;
+    padding-top: 100px;
+  }
+  .resText{
+    text-align: center;
+    padding-left: 20%;
+    padding-top: 20px;
+    width: 60%;
+    font-size: 1.5em;
+    padding-bottom: 80px;
+  
+  }

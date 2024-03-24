@@ -1,0 +1,36 @@
+.textTable{
+    display:inline;
+    float:left; 
+    width: 20%;
+    text-align: left;
+    font-size: 80%;
+    color: white;
+    height: 40%;
+    
+    white-space: nowrap;
+    overflow: hidden;
+    z-index: 10;
+    position: relative;
+    
+    
+  }
+  .numbers{
+    font-size: 2em;
+    font-weight: bolder;
+    z-index: 10;
+  }
+  .kaufmanTitle{
+    font-size: 4.5em; color: white; 
+     text-align: center;
+     font-weight: bolder;  
+     z-index: 10; 
+     position: relative; 
+     padding-top: 5%;
+  }
+  .ByKaufman{
+    text-align: center; 
+    color: white;
+    font-size: 1.75em; 
+    z-index: 10;
+    position: relative;
+  }

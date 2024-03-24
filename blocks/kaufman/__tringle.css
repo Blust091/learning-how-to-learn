@@ -1,0 +1,15 @@
+.tringle{
+    margin-right: O auto;
+    text-align: right;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    rotate: 30deg;
+    animation: Animation infinite ease-in;
+      animation-name: Animation;
+      animation-duration: 20s;
+    
+  
+  
+  }
