@@ -1,0 +1,12 @@
+.description{
+    height: 100%;
+    float:left; 
+    width: 100%;
+    text-align: left;
+    height: 100%;
+     width: 110%; 
+     background-color: white; 
+     padding: 3%; 
+     z-index: 10;
+  
+  }

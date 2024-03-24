@@ -4,3 +4,8 @@
     max-height: 756px;
     /* parameters for the header section */
   }
+  .headerConteiner{
+    height: 200%; 
+    width: 100%; 
+    position: relative;
+  }
