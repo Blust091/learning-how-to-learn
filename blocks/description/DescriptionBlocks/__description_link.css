@@ -1,4 +1,4 @@
-.descriptionLink{
+.description_link{
     height: 90%; 
     width: 15%; 
     background-color: white;
@@ -9,7 +9,7 @@
     font-size: 1.1em; 
     
 }
-.Links{
+.links{
     text-decoration: none; 
     color: #2F80ED ;
 }
