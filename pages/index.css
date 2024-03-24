@@ -1,10 +1,19 @@
 
-
+@import url(__resorses_conteiner.css);
+@import url(__resorses_images.css);
+@import url(__resorses_texts.css);
+@import url(__kaufman.css);
+@import url(__table.css);
+@import url(__texts.css);
+@import url(__tringle.css);
+@import url(__header_Image.css);
+@import url(__header_normalize.css);
+@import url(__header_texts.css);
+@import url(header__div/__header_div.css);
+@import url(__footer_container.css);
+@import url(__footer_logo.css);
+@import url(__footer_name.css);
+@import url(__description.css);
+@import url(DescriptionBlocks/__description_link.css);
+@import url(DescriptionBlocks/__second_texts.css);
 @import url(/blocks/content/__content.css);
-@import url(/blocks/description/__description_conector.css);
-@import url(/blocks/feynman/__feyman_conector.css);
-@import url(/blocks/footer/__footer_conector.css);
-@import url(/blocks/header/__header_conector.css);
-@import url(/blocks/kaufman/__kaufman_conector.css);
-@import url(/blocks/resources/_resorses_conector.css);
-@import url(/blocks/techniques/techniques_conector.css);
