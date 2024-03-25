@@ -360,8 +360,12 @@ template {
 body{
   background-color: white;
   width: 100%;
+  overflow-x:hidden; 
 }
 .links{
   text-decoration: none;
    color: #2F80ED ;
+}
+.suport{
+  height: 50vh;
 }

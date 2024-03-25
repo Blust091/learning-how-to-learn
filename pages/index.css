@@ -20,10 +20,10 @@
 @import url(../blocks/resources/__resorses_conteiner.css);
 @import url(../blocks/resources/__resorses_images.css);
 @import url(../blocks/techniques/techniques.css);
-@import url();
-@import url();
-@import url();
-@import url();
+@import url(../blocks/description/two-columns.css);
+@import url(../blocks/description/two-columns__\ span-accent.css);
+@import url(../blocks/resources/resourses_texts/resourses_subtitle.css);
+@import url(../blocks/resources/resourses_texts/sesourses_title.css);
 @import url();
 @import url();
 @import url();

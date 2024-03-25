@@ -1,0 +1,9 @@
+.resourses-title{
+    font-size: 4.5em;
+     text-align: center;
+     font-weight: bolder;  
+     z-index: 10; 
+     position: relative; 
+     padding-top: 100px;
+     padding: 20px;
+}
