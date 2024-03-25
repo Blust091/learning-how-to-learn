@@ -1,4 +1,4 @@
-.text_table{
+.table__cell{
     display:inline;
     float:left; 
     width: 20%;
@@ -14,12 +14,12 @@
     
     
   }
-  .numbers{
+  .table__heading{
     font-size: 2em;
     font-weight: bolder;
     z-index: 10;
   }
-  .kaufman_title{
+  .section-title{
     font-size: 4.5em; color: white; 
      text-align: center;
      font-weight: bolder;  
@@ -27,7 +27,7 @@
      position: relative; 
      padding-top: 5%;
   }
-  .by_kaufman{
+  .section-subtitle{
     text-align: center; 
     color: white;
     font-size: 1.75em; 

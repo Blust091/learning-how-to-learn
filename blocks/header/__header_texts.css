@@ -1,8 +1,8 @@
-.header_link{
+.header__subtitle{
     padding: 7%;
     padding-top: 50%;
   }
-.title{
+.header__title{
     vertical-align: middle;
     font-size: 8em;
     font-weight: bolder;
