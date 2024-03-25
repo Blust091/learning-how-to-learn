@@ -1,0 +1,8 @@
+.techniques__subtitle{
+    padding-top: 20PX;
+    padding-bottom: 80px;
+    text-align: center;
+    margin: auto; 
+    font-size: 1.75em; 
+    z-index: 10;
+}
