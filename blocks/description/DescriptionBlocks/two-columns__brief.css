@@ -1,15 +1,16 @@
-.description_link{
-    height: 90%; 
-    width: 15%; 
+.description_link {
+    height: 90%;
+    width: 15%;
     background-color: white;
-    float:left; 
-    padding-top: 5%; 
-    text-align: right; 
+    float: left;
+    padding-top: 5%;
+    text-align: right;
     margin-right: 3%;
-    font-size: 1.1em; 
-    
+    font-size: 1.1em;
+
 }
-.links{
-    text-decoration: none; 
-    color: #2F80ED ;
+
+.links {
+    text-decoration: none;
+    color: #2F80ED;
 }

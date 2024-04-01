@@ -1,13 +1,14 @@
-.table{
-    width: 80%;
-     margin: auto;
-      height: 40%;  
-     margin-bottom: auto;
-      z-index: 10;
-      padding: 2,5%;
-  }
-  .Kaufman_container{
-    height: 100%;
-    width: 80%; 
-    margin: auto;  
-  }
+.table {
+  width: 80%;
+  margin: auto;
+  height: 40%;
+  margin-bottom: auto;
+  z-index: 10;
+  padding: 2, 5%;
+}
+
+.Kaufman__container {
+  height: 100%;
+  width: 80%;
+  margin: auto;
+}
